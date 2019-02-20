@@ -16,7 +16,7 @@ Select service account -> New service account (if no service account exists).
 
 Enter Service account name and role (permission given to this account for the drive operations).
 
-Download the credentials json file.
+Download the credentials json file as rename it as credentials.json
 
 Transfer the json file in project folder. 
 
